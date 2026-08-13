@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:11:07Z",
+            "last_commit": "2026-08-13T11:53:05Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31653
+            "stars": 31654
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:57:50Z",
+            "last_commit": "2026-08-13T12:22:56Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18887
+            "stars": 18893
           }
         },
         {
@@ -274,7 +274,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:32:51Z",
+            "last_commit": "2026-08-13T08:45:31Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
             "stars": 8531
@@ -378,7 +378,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:49:40Z",
+            "last_commit": "2026-08-13T20:28:16Z",
             "owner": "ardatan",
             "repo": "graphql-mesh",
             "stars": 3512
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-04T00:12:46Z",
             "owner": "oramasearch",
             "repo": "orama",
-            "stars": 10515
+            "stars": 10516
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2025-07-05T18:07:02Z",
             "owner": "wobsoriano",
             "repo": "blipgloss",
-            "stars": 212
+            "stars": 211
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:57:16.430Z",
+    "last_updated": "2026-08-13T20:29:04.418Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",
