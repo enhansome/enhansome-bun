@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T12:08:34Z",
+            "last_commit": "2026-08-15T02:18:32Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31664
+            "stars": 31677
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-13T12:22:56Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18898
+            "stars": 18900
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-14T06:15:53Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8532
+            "stars": 8531
           }
         },
         {
@@ -378,7 +378,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:13:51Z",
+            "last_commit": "2026-08-15T15:30:39Z",
             "owner": "ardatan",
             "repo": "graphql-mesh",
             "stars": 3512
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-04T00:12:46Z",
             "owner": "oramasearch",
             "repo": "orama",
-            "stars": 10518
+            "stars": 10519
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2026-08-12T18:28:06Z",
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 561
+            "stars": 562
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:17:12.155Z",
+    "last_updated": "2026-08-15T20:00:02.361Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",
