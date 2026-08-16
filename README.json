@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T02:18:32Z",
+            "last_commit": "2026-08-16T13:41:30Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31677
+            "stars": 31686
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-13T12:22:56Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18900
+            "stars": 18901
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-14T06:15:53Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8531
+            "stars": 8530
           }
         },
         {
@@ -378,7 +378,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T15:30:39Z",
+            "last_commit": "2026-08-16T12:35:34Z",
             "owner": "ardatan",
             "repo": "graphql-mesh",
             "stars": 3512
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:00:02.361Z",
+    "last_updated": "2026-08-16T19:59:31.405Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",

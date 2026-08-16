@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,413 | 🐛 8,378 | 🌐 Rust | 📅 2026-08-15
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,428 | 🐛 8,229 | 🌐 Rust | 📅 2026-08-16
 
 ## Articles
 
@@ -55,7 +55,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Boilerplates
 
 * [Nixpacks Bun web server](https://github.com/railwayapp/nixpacks/tree/main/examples/node-bun-web-server) ⭐ 3,548 | 🐛 99 | 🌐 Rust | 📅 2026-08-13
-* [Extro - open source browser extension starter kit](https://github.com/turbostarter/extro) ⭐ 399 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-26
+* [Extro - open source browser extension starter kit](https://github.com/turbostarter/extro) ⭐ 399 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-26
 * [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker) ⭐ 119 | 🐛 2 | 🌐 TypeScript | 📅 2023-09-10
 * [Bun Lib Starter](https://github.com/wobsoriano/bun-lib-starter) ⭐ 113 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-11
 * [remix-bun](https://github.com/jacob-ebey/remix-bun-testing) ⭐ 105 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-07
@@ -75,9 +75,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 31,677 | 🐛 373 | 🌐 TypeScript | 📅 2026-08-15 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 18,900 | 🐛 367 | 🌐 TypeScript | 📅 2026-08-13 - Fast, and friendly Bun web framework.
-* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,531 | 🐛 161 | 🌐 TypeScript | 📅 2026-08-14 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+* [Hono](https://github.com/honojs/hono) ⭐ 31,686 | 🐛 371 | 🌐 TypeScript | 📅 2026-08-16 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 18,901 | 🐛 368 | 🌐 TypeScript | 📅 2026-08-13 - Fast, and friendly Bun web framework.
+* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,530 | 🐛 161 | 🌐 TypeScript | 📅 2026-08-14 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 783 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 339 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
 * [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
@@ -90,7 +90,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Libraries
 
-* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,512 | 🐛 190 | 🌐 TypeScript | 📅 2026-08-15 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
+* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,512 | 🐛 185 | 🌐 TypeScript | 📅 2026-08-16 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 * [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,380 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Set of JavaScript packages for building HTTP server applications, with Bun support.
 * [Siopao](https://github.com/wobsoriano/siopao) ⚠️ Archived - Minimal routing library. Based on Radix Tree.
 * [Fluxify](https://github.com/simylein/fluxify) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-08 - A neat little library powered by Bun for building apis.
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
