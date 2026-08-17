@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T02:15:19Z",
+            "last_commit": "2026-08-17T02:01:22Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
             "stars": 3548
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-26T11:53:06Z",
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 399
+            "stars": 400
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T13:41:30Z",
+            "last_commit": "2026-08-17T08:46:00Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31686
+            "stars": 31697
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T12:22:56Z",
+            "last_commit": "2026-08-17T17:03:09Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18901
+            "stars": 18907
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2026-08-14T06:15:53Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8530
+            "stars": 8529
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-05-01T19:22:57Z",
             "owner": "brisa-build",
             "repo": "brisa",
-            "stars": 783
+            "stars": 785
           }
         },
         {
@@ -378,7 +378,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T12:35:34Z",
+            "last_commit": "2026-08-17T16:22:00Z",
             "owner": "ardatan",
             "repo": "graphql-mesh",
             "stars": 3512
@@ -485,7 +485,7 @@
             "last_commit": "2023-09-19T03:54:01Z",
             "owner": "wobsoriano",
             "repo": "bun-promptx",
-            "stars": 147
+            "stars": 148
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:59:31.405Z",
+    "last_updated": "2026-08-17T20:06:51.714Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",
