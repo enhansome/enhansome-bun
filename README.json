@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T02:01:22Z",
+            "last_commit": "2026-08-18T00:09:31Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3548
+            "stars": 3549
           }
         },
         {
@@ -246,10 +246,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:46:00Z",
+            "last_commit": "2026-08-18T10:53:43Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 31697
+            "stars": 31715
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-08-17T17:03:09Z",
             "owner": "elysiajs",
             "repo": "elysia",
-            "stars": 18907
+            "stars": 18914
           }
         },
         {
@@ -274,10 +274,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T06:15:53Z",
+            "last_commit": "2026-08-18T14:23:50Z",
             "owner": "graphql-hive",
             "repo": "graphql-yoga",
-            "stars": 8529
+            "stars": 8528
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-04T00:12:46Z",
             "owner": "oramasearch",
             "repo": "orama",
-            "stars": 10519
+            "stars": 10520
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 714
+            "stars": 713
           }
         },
         {
@@ -899,7 +899,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:06:51.714Z",
+    "last_updated": "2026-08-18T20:01:51.017Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",
