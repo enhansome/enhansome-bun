@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T00:09:31Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3549
+            "stars": 3550
           }
         },
         {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-19T11:34:43Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31724
+                "stars": 31734
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18915
+                "stars": 18921
               }
             },
             {
@@ -402,7 +402,7 @@
                 "archived": false,
                 "id": 233597517,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T16:22:00Z",
+                "last_commit": "2026-08-19T15:18:59Z",
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3512
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10521
+                "stars": 10522
               }
             },
             {
@@ -730,7 +730,7 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 715
+            "stars": 717
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:44.396Z",
+    "last_updated": "2026-08-19T20:03:32.637Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
