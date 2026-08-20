@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T00:09:31Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3550
+            "stars": 3552
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-26T11:53:06Z",
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 400
+            "stars": 401
           }
         },
         {
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:34:43Z",
+                "last_commit": "2026-08-20T04:34:31Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31734
+                "stars": 31741
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18921
+                "stars": 18926
               }
             },
             {
@@ -290,10 +290,10 @@
                 "archived": false,
                 "id": 110819939,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:23:03Z",
+                "last_commit": "2026-08-20T13:52:44Z",
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8528
+                "stars": 8527
               }
             },
             {
@@ -402,7 +402,7 @@
                 "archived": false,
                 "id": 233597517,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T15:18:59Z",
+                "last_commit": "2026-08-20T16:19:15Z",
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3512
@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 617201903,
                 "language": "TypeScript",
-                "last_commit": "2024-09-08T19:16:20Z",
+                "last_commit": "2026-08-19T20:45:06Z",
                 "owner": "simylein",
                 "repo": "fluxify",
                 "stars": 45
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10522
+                "stars": 10523
               }
             },
             {
@@ -730,7 +730,7 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 717
+            "stars": 718
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:03:32.637Z",
+    "last_updated": "2026-08-20T20:11:58.380Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
