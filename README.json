@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T00:09:31Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3552
+            "stars": 3553
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 881051345,
             "language": "TypeScript",
-            "last_commit": "2026-07-26T11:53:06Z",
+            "last_commit": "2026-08-21T10:28:24Z",
             "owner": "turbostarter",
             "repo": "extro",
             "stars": 401
@@ -60,7 +60,7 @@
             "last_commit": "2024-10-11T05:31:06Z",
             "owner": "wobsoriano",
             "repo": "bun-lib-starter",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-20T04:34:31Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31741
+                "stars": 31757
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18926
+                "stars": 18935
               }
             },
             {
@@ -760,7 +760,7 @@
             "last_commit": "2025-06-17T07:40:42Z",
             "owner": "cometkim",
             "repo": "asdf-bun",
-            "stars": 150
+            "stars": 149
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T20:11:58.380Z",
+    "last_updated": "2026-08-21T20:01:35.870Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
