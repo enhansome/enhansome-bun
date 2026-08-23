@@ -150,7 +150,7 @@
             "last_commit": "2024-10-04T22:17:50Z",
             "owner": "genzj",
             "repo": "bun-ts-userscript-starter",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-22T05:55:00Z",
+                "last_commit": "2026-08-23T07:34:05Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31776
+                "stars": 31864
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18947
+                "stars": 18952
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10524
+                "stars": 10525
               }
             },
             {
@@ -730,7 +730,7 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 718
+            "stars": 719
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:00:38.806Z",
+    "last_updated": "2026-08-23T20:00:22.648Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
