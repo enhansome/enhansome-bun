@@ -12,10 +12,10 @@
             "archived": false,
             "id": 474540881,
             "language": "Rust",
-            "last_commit": "2026-08-18T00:09:31Z",
+            "last_commit": "2026-08-25T00:10:40Z",
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3553
+            "stars": 3554
           }
         },
         {
@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-24T08:44:48Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31937
+                "stars": 31948
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18956
+                "stars": 18959
               }
             },
             {
@@ -745,7 +745,7 @@
             "last_commit": "2026-06-27T08:49:01Z",
             "owner": "owenizedd",
             "repo": "bum",
-            "stars": 261
+            "stars": 262
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:12:35.028Z",
+    "last_updated": "2026-08-25T05:52:47.521Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
