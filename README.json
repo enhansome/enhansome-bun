@@ -263,7 +263,7 @@
                 "last_commit": "2026-08-24T08:44:48Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31948
+                "stars": 31958
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2026-08-19T05:26:07Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18959
+                "stars": 18966
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10529
+                "stars": 10530
               }
             },
             {
@@ -730,7 +730,7 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 720
+            "stars": 721
           }
         },
         {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:47.521Z",
+    "last_updated": "2026-08-25T20:10:54.222Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
