@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T10:28:24Z",
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 401
+            "stars": 403
           }
         },
         {
@@ -260,10 +260,10 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T08:44:48Z",
+                "last_commit": "2026-08-26T01:55:45Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31958
+                "stars": 31976
               }
             },
             {
@@ -275,10 +275,10 @@
                 "archived": false,
                 "id": 574104779,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T05:26:07Z",
+                "last_commit": "2026-08-26T21:19:05Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18966
+                "stars": 18975
               }
             },
             {
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-20T13:52:44Z",
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8526
+                "stars": 8527
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10530
+                "stars": 10533
               }
             },
             {
@@ -954,7 +954,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:10:54.222Z",
+    "last_updated": "2026-08-26T22:31:28.711Z",
     "original_repository": "oven-sh/awesome-bun",
     "original_repository_id": 511742583,
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
