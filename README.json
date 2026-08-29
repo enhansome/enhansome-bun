@@ -16,7 +16,8 @@
             "owner": "railwayapp",
             "repo": "nixpacks",
             "stars": 3555
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "turbostarter",
             "repo": "extro",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Illyism",
             "repo": "openai-whisper-api",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "wobsoriano",
             "repo": "bun-lib-starter",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jacob-ebey",
             "repo": "remix-bun-testing",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "itsyoboieltr",
             "repo": "dbest-stack",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "sachinraja",
             "repo": "trpc-bun",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "theotterlord",
             "repo": "sveltekit-bun-template",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "alertbox",
             "repo": "try-bun",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "genzj",
             "repo": "bun-ts-userscript-starter",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "guocaoyi",
             "repo": "netron",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "gitpod-samples",
             "repo": "template-bun",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "itsanji",
             "repo": "react-ts-template-for-bun",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "FarazPatankar",
             "repo": "bun-on-railway",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "boilertown",
             "repo": "react-nostalgia-boilerplate",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "Joshuafrankle",
             "repo": "bun-react",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         }
       ],
       "title": "Boilerplates"
@@ -260,11 +276,12 @@
                 "archived": false,
                 "id": 438384984,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T00:20:10Z",
+                "last_commit": "2026-08-28T06:38:15Z",
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 31996
-              }
+                "stars": 32011
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -278,8 +295,9 @@
                 "last_commit": "2026-08-27T21:02:25Z",
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 18998
-              }
+                "stars": 19018
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
                 "stars": 8527
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "brisa-build",
                 "repo": "brisa",
                 "stars": 785
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "ronin-co",
                 "repo": "blade",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -339,7 +360,8 @@
                 "owner": "mimiMonads",
                 "repo": "vixeny",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "sstur",
                 "repo": "nbit",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "RodrigoDornelles",
                 "repo": "npm-gamepadzilla",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "wintkhantlin",
                 "repo": "Bunwork",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             }
           ],
           "description": null,
@@ -405,8 +430,9 @@
                 "last_commit": "2026-08-24T17:29:24Z",
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
-                "stars": 3512
-              }
+                "stars": 3513
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "hattipjs",
                 "repo": "hattip",
                 "stars": 1380
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "wobsoriano",
                 "repo": "siopao",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "simylein",
                 "repo": "fluxify",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -466,7 +495,8 @@
                 "owner": "bunsvr",
                 "repo": "utils",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             }
           ],
           "description": null,
@@ -487,8 +517,9 @@
                 "last_commit": "2026-08-04T00:12:46Z",
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10536
-              }
+                "stars": 10537
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "wobsoriano",
                 "repo": "blipgloss",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "wobsoriano",
                 "repo": "bun-promptx",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "wobsoriano",
                 "repo": "bnx",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "aralroca",
                 "repo": "prerender-macro",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "Jarred-Sumner",
                 "repo": "bun-aws-lambda",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "aabccd021",
                 "repo": "bun-html-live-reload",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -593,7 +630,8 @@
                 "owner": "lawrencecchen",
                 "repo": "postgres-bun",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -608,7 +646,8 @@
                 "owner": "Jarred-Sumner",
                 "repo": "bun-livereload",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -623,7 +662,8 @@
                 "owner": "chaqchase",
                 "repo": "type-explorer",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -638,7 +678,8 @@
                 "owner": "wobsoriano",
                 "repo": "bun-wifi-name",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -653,7 +694,8 @@
                 "owner": "m1212e",
                 "repo": "bun-fs-router-plugin",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             }
           ],
           "description": null,
@@ -675,7 +717,8 @@
                 "owner": "evanwashere",
                 "repo": "duckdb",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "AngelMunoz",
                 "repo": "fable-bun",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "AlexAllocated",
                 "repo": "svelte-adapter-bun",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:28:10.972Z"
             }
           ],
           "description": null,
@@ -730,8 +775,9 @@
             "last_commit": "2026-03-14T09:38:41Z",
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 720
-          }
+            "stars": 721
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -746,7 +792,8 @@
             "owner": "owenizedd",
             "repo": "bum",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -761,7 +808,8 @@
             "owner": "cometkim",
             "repo": "asdf-bun",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -776,7 +824,8 @@
             "owner": "wobsoriano",
             "repo": "bunbot",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -791,7 +840,8 @@
             "owner": "antongolub",
             "repo": "action-setup-bun",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -806,7 +856,8 @@
             "owner": "xhyrom",
             "repo": "bun-discord-bot",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -821,7 +872,8 @@
             "owner": "AltriusRS",
             "repo": "Shumai",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -836,7 +888,8 @@
             "owner": "Discall-Development",
             "repo": "Discall",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -851,7 +904,8 @@
             "owner": "MiraBellierr",
             "repo": "bun-discord-bot",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -866,7 +920,8 @@
             "owner": "William-McGonagle",
             "repo": "bun-doc",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -881,7 +936,8 @@
             "owner": "alexkuz",
             "repo": "sublime-bun",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         }
       ],
       "title": "Tools"
@@ -901,8 +957,9 @@
             "last_commit": "2026-08-12T18:28:06Z",
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 563
-          }
+            "stars": 564
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -917,7 +974,8 @@
             "owner": "bunsvr",
             "repo": "benchmark",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -932,7 +990,8 @@
             "owner": "bun-community",
             "repo": "sveltekit-adapter-bun",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         },
         {
           "node_type": "item",
@@ -947,14 +1006,15 @@
             "owner": "xhyrom-archive",
             "repo": "benchmarks",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:28:10.972Z"
         }
       ],
       "title": "Community"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:52:08.884Z",
+    "last_updated": "2026-08-29T02:28:10.972Z",
     "original_repository_info": {
       "archived": false,
       "id": 511742583,
