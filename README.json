@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 403,
+            "stars": 404,
             "topics": [
               "ai",
               "boilerplate",
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T06:38:15Z",
-                "open_issues": 377,
+                "open_issues": 379,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32011,
+                "stars": 32024,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 386,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19020,
+                "stars": 19024,
                 "topics": [
                   "bun",
                   "framework",
@@ -1264,7 +1264,7 @@
             "open_issues": 16,
             "owner": "owenizedd",
             "repo": "bum",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "bum",
               "bun",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:17:48.507Z",
+    "last_updated": "2026-08-29T22:00:56.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 90,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3646,
+      "stars": 3647,
       "topics": [
         "awesome",
         "awesome-bun",
