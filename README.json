@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App source + Nix packages + Docker = Image",
+            "homepage": "https://nixpacks.com",
             "id": 474540881,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T00:10:40Z",
+            "open_issues": 99,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3555
+            "stars": 3555,
+            "topics": [
+              "buildpacks",
+              "cli",
+              "docker",
+              "nix",
+              "nixpkgs",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -26,12 +38,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source browser extension starter kit 🧩",
+            "homepage": "https://turbostarter.dev",
             "id": 881051345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T10:28:24Z",
+            "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "ai",
+              "boilerplate",
+              "browser-extension",
+              "chrome-extension",
+              "edge-extension",
+              "extension",
+              "firefox-addon",
+              "plasmo",
+              "react",
+              "shadcn",
+              "starter-kit",
+              "supabase",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -42,12 +74,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAI Whisper API based on Node.js / Bun.sh in a Docker Container + Google Cloud Run Example",
+            "homepage": "https://magicbuddy.chat",
             "id": 661391823,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-09-10T19:57:07Z",
+            "open_issues": 2,
             "owner": "Illyism",
             "repo": "openai-whisper-api",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "chatgpt",
+              "openai",
+              "openai-whisper",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -58,12 +100,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My minimal bun library starter",
+            "homepage": null,
             "id": 514089489,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-11T05:31:06Z",
+            "open_issues": 1,
             "owner": "wobsoriano",
             "repo": "bun-lib-starter",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "bun",
+              "bunjs"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -74,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://bun-remix-test.fly.dev/",
             "id": 510932204,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-07T07:20:55Z",
+            "open_issues": 0,
             "owner": "jacob-ebey",
             "repo": "remix-bun-testing",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -90,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 694921887,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-25T20:20:40Z",
+            "open_issues": 0,
             "owner": "itsyoboieltr",
             "repo": "dbest-stack",
-            "stars": 102
+            "stars": 102,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -106,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tRPC + Bun",
+            "homepage": null,
             "id": 510957950,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-10-07T03:53:36Z",
+            "open_issues": 0,
             "owner": "sachinraja",
             "repo": "trpc-bun",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -122,12 +187,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a Svelte app, powered by Bun",
+            "homepage": null,
             "id": 516846296,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-19T09:40:57Z",
+            "open_issues": 0,
             "owner": "theotterlord",
             "repo": "sveltekit-bun-template",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "bun",
+              "svelte",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -138,12 +212,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start a dev container and get to developing a variety of JavaScript-based (or TypeScript) web apps and services.",
+            "homepage": "https://bun.sh/guides",
             "id": 512222461,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-06-01T06:17:39Z",
+            "open_issues": 0,
             "owner": "alertbox",
             "repo": "try-bun",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "bun",
+              "bunjs",
+              "devcontainers",
+              "javascript",
+              "jsx",
+              "template-project",
+              "tsx",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -154,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create your Greasemonkey userscripts with Bun and TypeScript.",
+            "homepage": null,
             "id": 855458614,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-10-04T22:17:50Z",
+            "open_issues": 0,
             "owner": "genzj",
             "repo": "bun-ts-userscript-starter",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -170,12 +263,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netron is a Electron framework for building efficient and reliable desktop applications, and fully supports TypeScript (or pure JS) and OOP (IoC + AOP). ⚛️一款用于构建高效可靠桌面应用的 Electron 框架，支持 TS 语言以及 OOP 编程范式！",
+            "homepage": null,
             "id": 511764171,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-23T07:04:28Z",
+            "open_issues": 0,
             "owner": "guocaoyi",
             "repo": "netron",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "electron",
+              "electron-framework",
+              "neon",
+              "nest"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -186,12 +289,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bun starter template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.",
+            "homepage": null,
             "id": 511402049,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-20T07:59:16Z",
+            "open_issues": 2,
             "owner": "gitpod-samples",
             "repo": "template-bun",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "bun",
+              "bun-starter",
+              "bun-template",
+              "gitpod",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -202,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React@18.x with Typescript works for blazing fast Bun",
+            "homepage": null,
             "id": 512147845,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-10-17T04:26:19Z",
+            "open_issues": 1,
             "owner": "itsanji",
             "repo": "react-ts-template-for-bun",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -218,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 511051300,
             "language": "Dockerfile",
+            "license": null,
             "last_commit": "2022-07-06T08:29:38Z",
+            "open_issues": 0,
             "owner": "FarazPatankar",
             "repo": "bun-on-railway",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -234,12 +358,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full fledged boilerplate to quickly kickstart your React applications.",
+            "homepage": "https://nostalgia-boilerplate.vercel.app",
             "id": 506725427,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-02T00:16:06Z",
+            "open_issues": 3,
             "owner": "boilertown",
             "repo": "react-nostalgia-boilerplate",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "eslint",
+              "front-end",
+              "playwright",
+              "prettier",
+              "react",
+              "react-boilerplate",
+              "storybook",
+              "testing-library",
+              "typescript",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -250,12 +390,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bun starter template for React, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral development environments in the cloud.",
+            "homepage": null,
             "id": 512128699,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-09T09:45:51Z",
+            "open_issues": 0,
             "owner": "Joshuafrankle",
             "repo": "bun-react",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bun",
+              "gitpod",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         }
@@ -274,12 +424,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web framework built on Web Standards",
+                "homepage": "https://hono.dev",
                 "id": 438384984,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:38:15Z",
+                "open_issues": 377,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32011
+                "stars": 32011,
+                "topics": [
+                  "aws-lambda",
+                  "bun",
+                  "cloudflare",
+                  "cloudflare-workers",
+                  "deno",
+                  "npm",
+                  "router",
+                  "typescript",
+                  "web-framework"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -290,12 +455,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ergonomic Framework for Humans",
+                "homepage": "https://elysiajs.com",
                 "id": 574104779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:02:25Z",
+                "open_issues": 386,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19018
+                "stars": 19020,
+                "topics": [
+                  "bun",
+                  "framework",
+                  "http",
+                  "server",
+                  "typescript",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -306,12 +483,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧘 Rewrite of a fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.  The core of Yoga implements WHATWG Fetch API and can run/deploy on any JS environment.",
+                "homepage": "https://the-guild.dev/graphql/yoga-server",
                 "id": 110819939,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T13:52:44Z",
+                "open_issues": 160,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8527
+                "stars": 8527,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "fetch",
+                  "graphql",
+                  "graphql-server",
+                  "javascript",
+                  "nodejs",
+                  "the-guild",
+                  "typescript",
+                  "w3c",
+                  "whatwg"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -322,12 +516,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Web Platform Framework. ",
+                "homepage": "https://brisa.build",
                 "id": 686927416,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-01T19:22:57Z",
+                "open_issues": 55,
                 "owner": "brisa-build",
                 "repo": "brisa",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "hacktoberfest",
+                  "javascript",
+                  "jsx",
+                  "server-components",
+                  "server-rendering",
+                  "signals",
+                  "static-site-generator",
+                  "streaming",
+                  "typescript",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -338,12 +548,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React framework for building instant web apps.",
+                "homepage": "https://blade.im",
                 "id": 926563904,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-08T11:17:54Z",
+                "open_issues": 19,
                 "owner": "ronin-co",
                 "repo": "blade",
-                "stars": 339
+                "stars": 339,
+                "topics": [
+                  "components",
+                  "framework",
+                  "frontend",
+                  "react",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -354,12 +575,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💜 Vixeny: At the forefront of modern web development, runtime-independent, efficiency-driven library dedicated to upholding the principles of FP; Desgined for creating scalable, maintainable, and high-performance web applications.",
+                "homepage": "https://vixeny.dev/",
                 "id": 591296263,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-02-05T08:30:49Z",
+                "open_issues": 4,
                 "owner": "mimiMonads",
                 "repo": "vixeny",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "bun",
+                  "deno",
+                  "functional-programming",
+                  "javascript",
+                  "javascript-library",
+                  "node",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -370,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers",
+                "homepage": null,
                 "id": 512363454,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-01-26T15:52:05Z",
+                "open_issues": 5,
                 "owner": "sstur",
                 "repo": "nbit",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -386,12 +625,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. No scripting required.",
+                "homepage": "https://rodrigodornelles.github.io/npm-gamepadzilla/",
                 "id": 714287219,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-01T06:15:21Z",
+                "open_issues": 17,
                 "owner": "RodrigoDornelles",
                 "repo": "npm-gamepadzilla",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "gamepad",
+                  "gamepad-library",
+                  "gamepad-viewer",
+                  "gamepadlistener",
+                  "html5-canvas",
+                  "html5-game"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -402,12 +653,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Lightweight Backend Framework For Bun",
+                "homepage": null,
                 "id": 885341482,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-01-11T07:54:50Z",
+                "open_issues": 0,
                 "owner": "wintkhantlin",
                 "repo": "Bunwork",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "api",
+                  "backend",
+                  "bun",
+                  "framework",
+                  "javascript",
+                  "server",
+                  "tools",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             }
@@ -425,12 +690,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...",
+                "homepage": "https://the-guild.dev/graphql/mesh",
                 "id": 233597517,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:29:24Z",
+                "open_issues": 175,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
-                "stars": 3513
+                "stars": 3513,
+                "topics": [
+                  "gateway",
+                  "graphql",
+                  "grpc",
+                  "grpc-gateway",
+                  "odata",
+                  "openapi",
+                  "rest-api",
+                  "soap",
+                  "swagger",
+                  "thrift"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -441,12 +722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Express, but for the future",
+                "homepage": null,
                 "id": 462422707,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T05:31:10Z",
+                "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
-                "stars": 1380
+                "stars": 1380,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -457,12 +743,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A minimal routing library designed to sit on top of Bun's fast HTTP server.",
+                "homepage": null,
                 "id": 512075877,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-21T18:01:00Z",
+                "open_issues": 0,
                 "owner": "wobsoriano",
                 "repo": "siopao",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "bun",
+                  "http",
+                  "router"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -473,12 +768,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a neat little http server library powered by bun for building apis",
+                "homepage": null,
                 "id": 617201903,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T20:45:06Z",
+                "open_issues": 0,
                 "owner": "simylein",
                 "repo": "fluxify",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "api",
+                  "bun",
+                  "http",
+                  "logger",
+                  "repository",
+                  "rest",
+                  "router",
+                  "seed",
+                  "service",
+                  "sqlite"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -489,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utilities for parsing and handling requests",
+                "homepage": "https://stricjs.netlify.app",
                 "id": 584045582,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-01-19T01:51:59Z",
+                "open_issues": 0,
                 "owner": "bunsvr",
                 "repo": "utils",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             }
@@ -512,12 +828,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.",
+                "homepage": "https://docs.orama.com/docs/orama-js",
                 "id": 490677825,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-04T00:12:46Z",
+                "open_issues": 21,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10537
+                "stars": 10537,
+                "topics": [
+                  "algiorithm",
+                  "data-structures",
+                  "full-text",
+                  "javascript",
+                  "node",
+                  "search",
+                  "search-algorithm",
+                  "search-engine",
+                  "typescript",
+                  "typo-tolerance",
+                  "vector",
+                  "vector-database",
+                  "vector-database-embedding",
+                  "vector-search",
+                  "vector-search-engine"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -528,12 +865,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Style definitions for nice terminal layouts 👄",
+                "homepage": null,
                 "id": 517153400,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-05T18:07:02Z",
+                "open_issues": 1,
                 "owner": "wobsoriano",
                 "repo": "blipgloss",
-                "stars": 211
+                "stars": 211,
+                "topics": [
+                  "bubbles",
+                  "bubbletea",
+                  "bun",
+                  "bunjs",
+                  "cli",
+                  "go",
+                  "golang",
+                  "layout",
+                  "lipgloss",
+                  "node",
+                  "style",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -544,12 +899,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal prompt library for the Bun runtime",
+                "homepage": null,
                 "id": 515752670,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-09-19T03:54:01Z",
+                "open_issues": 5,
                 "owner": "wobsoriano",
                 "repo": "bun-promptx",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "bun",
+                  "bunjs",
+                  "cli",
+                  "go",
+                  "prompt",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -560,12 +927,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "zx inspired shell for Bun.",
+                "homepage": null,
                 "id": 520637226,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-01-21T07:14:32Z",
+                "open_issues": 2,
                 "owner": "wobsoriano",
                 "repo": "bnx",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "bash",
+                  "bun",
+                  "cli",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -576,12 +953,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bun plugin to prerender JSX components using a kind of macro",
+                "homepage": null,
                 "id": 773707500,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-03-27T17:46:34Z",
+                "open_issues": 3,
                 "owner": "aralroca",
                 "repo": "prerender-macro",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "brisa",
+                  "bunjs",
+                  "jsx",
+                  "macros",
+                  "partial-prerendering",
+                  "plugin",
+                  "preact",
+                  "prerender",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -592,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Attempting to get bun to run on AWS Lambda",
+                "homepage": null,
                 "id": 538096881,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-04-25T06:38:57Z",
+                "open_issues": 0,
                 "owner": "Jarred-Sumner",
                 "repo": "bun-aws-lambda",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -608,12 +1005,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically reload html when Bun hot reloads",
+                "homepage": null,
                 "id": 609677366,
                 "language": "Nix",
+                "license": null,
                 "last_commit": "2025-12-10T04:33:05Z",
+                "open_issues": 1,
                 "owner": "aabccd021",
                 "repo": "bun-html-live-reload",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "bun",
+                  "live-reload"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -624,12 +1029,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 545857441,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-10-05T22:36:02Z",
+                "open_issues": 1,
                 "owner": "lawrencecchen",
                 "repo": "postgres-bun",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -640,12 +1050,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wrap a function with bun-livereload to automatically reload any imports inside the function the next time it is called",
+                "homepage": null,
                 "id": 510056635,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-07-03T15:08:34Z",
+                "open_issues": 1,
                 "owner": "Jarred-Sumner",
                 "repo": "bun-livereload",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -656,12 +1071,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful runtime type analysis utility for JavaScript/TypeScript",
+                "homepage": null,
                 "id": 900513972,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-12-09T01:05:20Z",
+                "open_issues": 0,
                 "owner": "chaqchase",
                 "repo": "type-explorer",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -672,12 +1092,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get current wifi name in Bun/Node",
+                "homepage": null,
                 "id": 514929757,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-09-11T21:16:43Z",
+                "open_issues": 1,
                 "owner": "wobsoriano",
                 "repo": "bun-wifi-name",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bun",
+                  "node",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -688,12 +1117,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bun.js filesystem router plugin",
+                "homepage": null,
                 "id": 665242282,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-14T20:29:04Z",
+                "open_issues": 0,
                 "owner": "m1212e",
                 "repo": "bun-fs-router-plugin",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             }
@@ -711,12 +1145,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦆 fast duckdb bindings for bun runtime",
+                "homepage": null,
                 "id": 488026834,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-12T02:33:24Z",
+                "open_issues": 6,
                 "owner": "evanwashere",
                 "repo": "duckdb",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "bun",
+                  "duckdb"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -727,12 +1169,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fable bindings for Bun.sh",
+                "homepage": null,
                 "id": 511613651,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2022-07-17T03:59:20Z",
+                "open_issues": 0,
                 "owner": "AngelMunoz",
                 "repo": "fable-bun",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "bun",
+                  "fable",
+                  "fsharp",
+                  "javascript-runtime",
+                  "js"
+                ]
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             },
@@ -743,12 +1196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SvelteKit adapter for Bun",
+                "homepage": null,
                 "id": 722347822,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-08T01:04:39Z",
+                "open_issues": 1,
                 "owner": "AlexAllocated",
                 "repo": "svelte-adapter-bun",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
             }
@@ -770,12 +1228,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up your GitHub Actions workflow with a specific version of Bun",
+            "homepage": null,
             "id": 512644635,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-14T09:38:41Z",
+            "open_issues": 19,
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 721
+            "stars": 721,
+            "topics": [
+              "actions",
+              "bun",
+              "github",
+              "github-actions",
+              "setup-bun"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -786,12 +1255,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bun Version Manager written in Rust⚡",
+            "homepage": "https://owenizedd.github.io/bum/",
             "id": 692752376,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-06-27T08:49:01Z",
+            "open_issues": 16,
             "owner": "owenizedd",
             "repo": "bum",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "bum",
+              "bun",
+              "bun-js",
+              "bun-plugin",
+              "bun-runtime",
+              "bun-version-manager",
+              "bunjs",
+              "napi-rs",
+              "node-js",
+              "nodejs",
+              "npm",
+              "npm-package",
+              "rust",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -802,12 +1291,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "asdf-vm plugin for installing Bun",
+            "homepage": null,
             "id": 511268780,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-06-17T07:40:42Z",
+            "open_issues": 3,
             "owner": "cometkim",
             "repo": "asdf-bun",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "asdf",
+              "asdf-plugin",
+              "bun",
+              "bunjs",
+              "mise"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -818,12 +1318,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop automation for Bun",
+            "homepage": null,
             "id": 514723033,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-23T04:06:03Z",
+            "open_issues": 1,
             "owner": "wobsoriano",
             "repo": "bunbot",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "automation",
+              "bun",
+              "bunjs",
+              "cgo",
+              "ffi",
+              "go",
+              "gui",
+              "robot"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -834,12 +1348,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Setup GitHub Actions workflow with a specific version of Bun",
+            "homepage": null,
             "id": 512010283,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-11T18:25:56Z",
+            "open_issues": 5,
             "owner": "antongolub",
             "repo": "action-setup-bun",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "actions",
+              "bun",
+              "github",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -850,12 +1374,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "official discord bot for bun server",
+            "homepage": "https://bun.sh/discord",
             "id": 512424907,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-09T17:04:46Z",
+            "open_issues": 1,
             "owner": "xhyrom",
             "repo": "bun-discord-bot",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "bot",
+              "bun",
+              "discord"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -866,12 +1399,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delicious new outlook on command line argument handling.",
+            "homepage": "https://npmjs.com/package/shumai",
             "id": 512968816,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-12T16:23:55Z",
+            "open_issues": 0,
             "owner": "AltriusRS",
             "repo": "Shumai",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "args-parser",
+              "bun",
+              "bunjs",
+              "cli",
+              "commanderjs"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -882,12 +1426,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Functional async discord API",
+            "homepage": null,
             "id": 494485299,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-09-13T12:12:34Z",
+            "open_issues": 1,
             "owner": "Discall-Development",
             "repo": "Discall",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -898,12 +1447,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interaction Discord bot written in JS and TS using Bun runtime environment. Contains simple get avatar and get user info commands. Starting a bot only takes 0.02 - 0.05 ms.",
+            "homepage": null,
             "id": 512206131,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-07-25T06:40:28Z",
+            "open_issues": 0,
             "owner": "MiraBellierr",
             "repo": "bun-discord-bot",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "bunjs",
+              "discord-bot"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -914,12 +1471,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A procedural documentation and website generator written in Bun.",
+            "homepage": "https://william-mcgonagle.github.io/bun-doc",
             "id": 517196724,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-07-24T15:43:21Z",
+            "open_issues": 4,
             "owner": "William-McGonagle",
             "repo": "bun-doc",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bun",
+              "documentation",
+              "generator",
+              "javascript",
+              "procedural",
+              "typescript",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -930,12 +1500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bun binary files viewer and other Bun-related stuff",
+            "homepage": null,
             "id": 442176929,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-30T13:03:55Z",
+            "open_issues": 0,
             "owner": "alexkuz",
             "repo": "sublime-bun",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         }
@@ -952,12 +1527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compare throughput benchmark from various Bun HTTP framework",
+            "homepage": null,
             "id": 524697082,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-12T18:28:06Z",
+            "open_issues": 30,
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -968,12 +1548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmarking HTTP frameworks",
+            "homepage": null,
             "id": 592737937,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-01-16T13:51:27Z",
+            "open_issues": 0,
             "owner": "bunsvr",
             "repo": "benchmark",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -984,12 +1569,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 550672542,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-07T14:00:42Z",
+            "open_issues": 3,
             "owner": "bun-community",
             "repo": "sveltekit-adapter-bun",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         },
@@ -1000,12 +1590,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Benchmarks between languages & js runtimes",
+            "homepage": "https://xhyrom.github.io/benchmarks/",
             "id": 518159550,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-24T13:09:09Z",
+            "open_issues": 6,
             "owner": "xhyrom-archive",
             "repo": "benchmarks",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
         }
@@ -1014,15 +1609,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:28:10.972Z",
+    "last_updated": "2026-08-29T04:17:48.507Z",
     "original_repository_info": {
       "archived": false,
+      "description": "⚡️ A curated list of awesome things related to Bun",
+      "homepage": null,
       "id": 511742583,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-07-20T10:01:29Z",
+      "open_issues": 90,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3646
+      "stars": 3646,
+      "topics": [
+        "awesome",
+        "awesome-bun",
+        "awesome-list",
+        "bun",
+        "bunjs"
+      ]
     },
     "original_repository_sha": "9b6277f02b6750e6c049e520852842c15c3b34e1",
     "enhanced_repository": "enhansome/enhansome-bun",
