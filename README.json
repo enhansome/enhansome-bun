@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T06:38:15Z",
-                "open_issues": 379,
+                "open_issues": 381,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32024,
+                "stars": 32033,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -460,11 +460,11 @@
                 "id": 574104779,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T21:02:25Z",
+                "last_commit": "2026-08-30T16:01:27Z",
                 "open_issues": 386,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19024,
+                "stars": 19032,
                 "topics": [
                   "bun",
                   "framework",
@@ -525,7 +525,7 @@
                 "open_issues": 55,
                 "owner": "brisa-build",
                 "repo": "brisa",
-                "stars": 785,
+                "stars": 786,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -837,7 +837,7 @@
                 "open_issues": 21,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10537,
+                "stars": 10538,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -874,7 +874,7 @@
                 "open_issues": 1,
                 "owner": "wobsoriano",
                 "repo": "blipgloss",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "bubbles",
                   "bubbletea",
@@ -908,7 +908,7 @@
                 "open_issues": 5,
                 "owner": "wobsoriano",
                 "repo": "bun-promptx",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "bun",
                   "bunjs",
@@ -1126,7 +1126,7 @@
                 "open_issues": 0,
                 "owner": "m1212e",
                 "repo": "bun-fs-router-plugin",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1154,7 +1154,7 @@
                 "open_issues": 6,
                 "owner": "evanwashere",
                 "repo": "duckdb",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "bun",
                   "duckdb"
@@ -1205,7 +1205,7 @@
                 "open_issues": 1,
                 "owner": "AlexAllocated",
                 "repo": "svelte-adapter-bun",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:00:56.146Z",
+    "last_updated": "2026-08-30T22:08:00.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 90,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3647,
+      "stars": 3648,
       "topics": [
         "awesome",
         "awesome-bun",
