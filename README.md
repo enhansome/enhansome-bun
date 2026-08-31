@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,812 | 🐛 8,602 | 🌐 Rust | 📅 2026-08-30
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,828 | 🐛 8,617 | 🌐 Rust | 📅 2026-08-31
 
 ## Articles
 
@@ -54,8 +54,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Boilerplates
 
-* [Nixpacks Bun web server](https://github.com/railwayapp/nixpacks/tree/main/examples/node-bun-web-server) ⭐ 3,555 | 🐛 99 | 🌐 Rust | 📅 2026-08-25
-* [Extro - open source browser extension starter kit](https://github.com/turbostarter/extro) ⭐ 404 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21
+* [Nixpacks Bun web server](https://github.com/railwayapp/nixpacks/tree/main/examples/node-bun-web-server) ⭐ 3,554 | 🐛 99 | 🌐 Rust | 📅 2026-08-25
+* [Extro - open source browser extension starter kit](https://github.com/turbostarter/extro) ⭐ 405 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21
 * [Bun OpenAI Whisper Microservice with Docker](https://github.com/Illyism/whisper-docker) ⭐ 119 | 🐛 2 | 🌐 TypeScript | 📅 2023-09-10
 * [Bun Lib Starter](https://github.com/wobsoriano/bun-lib-starter) ⭐ 114 | 🐛 1 | 🌐 TypeScript | 📅 2024-10-11
 * [remix-bun](https://github.com/jacob-ebey/remix-bun-testing) ⭐ 105 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-07
@@ -75,8 +75,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,033 | 🐛 381 | 🌐 TypeScript | 📅 2026-08-28 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,032 | 🐛 386 | 🌐 TypeScript | 📅 2026-08-30 - Fast, and friendly Bun web framework.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,047 | 🐛 383 | 🌐 TypeScript | 📅 2026-08-28 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,039 | 🐛 385 | 🌐 TypeScript | 📅 2026-08-30 - Fast, and friendly Bun web framework.
 * [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,527 | 🐛 160 | 🌐 TypeScript | 📅 2026-08-20 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 786 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 339 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
@@ -99,7 +99,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Utilities
 
-* [Orama](https://github.com/oramasearch/orama) ⭐ 10,538 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-04 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+* [Orama](https://github.com/oramasearch/orama) ⭐ 10,541 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-04 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 * [blipgloss](https://github.com/wobsoriano/blipgloss) ⭐ 212 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-05 - Style definitions for nice terminal layouts 👄.
 * [bun-promptx](https://github.com/wobsoriano/bun-promptx) ⭐ 149 | 🐛 5 | 🌐 Go | 📅 2023-09-19 - Terminal prompt library based on bubbles via bun:ffi.
 * [bnx](https://github.com/wobsoriano/bnx) ⚠️ Archived - zx inspired shell for Bun/Node.
@@ -140,7 +140,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ## Tools
 
 * [setup-bun](https://github.com/oven-sh/setup-bun) ⭐ 721 | 🐛 19 | 🌐 TypeScript | 📅 2026-03-14 - Set up your GitHub Actions workflow with a specific version of Bun.
-* [Bum](https://github.com/owenizedd/bum) ⭐ 263 | 🐛 16 | 🌐 Rust | 📅 2026-06-27 - A fast Bun version manager written in Rust.
+* [Bum](https://github.com/owenizedd/bum) ⭐ 264 | 🐛 16 | 🌐 Rust | 📅 2026-06-27 - A fast Bun version manager written in Rust.
 * [asdf-bun](https://github.com/cometkim/asdf-bun) ⭐ 149 | 🐛 3 | 🌐 Shell | 📅 2025-06-17 - asdf version manager plugin for installing Bun.
 * [bunbot](https://github.com/wobsoriano/bunbot) ⭐ 82 | 🐛 1 | 🌐 Go | 📅 2023-09-23 - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
 * [action-setup-bun](https://github.com/antongolub/action-setup-bun) ⭐ 50 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-11 - Setup GitHub Actions workflow with a specific version of Bun.
@@ -149,7 +149,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 * [Discall](https://github.com/Discall-Development/Discall) ⚠️ Archived - A async functional discord API wrapper written in bun.
 * [bun-discord-bot](https://github.com/MiraBellierr/bun-discord-bot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-25 - Interaction Discord bot written in JS and TS using Bun runtime environment.
 * [bun-doc](https://github.com/William-McGonagle/bun-doc) ⭐ 13 | 🐛 4 | 🌐 JavaScript | 📅 2022-07-24 - A procedural documentation and website generator written in Bun.
-* [sublime-bun](https://github.com/alexkuz/sublime-bun) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2023-07-30 - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
+* [sublime-bun](https://github.com/alexkuz/sublime-bun) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-07-30 - Bun binary files viewer and other Bun-related stuff for Sublime Text editor.
 * [bun.new](http://bun.new) - Instant Bun playground in browser.
 * [VS Code Bun extension](https://marketplace.visualstudio.com/items?itemName=oven.bun-vscode) - VS Code extension to execute JavaScript .js file or TypeScript .ts file by Bun.
 
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
