@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 405,
+            "stars": 408,
             "topics": [
               "ai",
               "boilerplate",
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-08-28T06:38:15Z",
-                "open_issues": 387,
+                "open_issues": 386,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32057,
+                "stars": 32068,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 381,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19044,
+                "stars": 19061,
                 "topics": [
                   "bun",
                   "framework",
@@ -699,7 +699,7 @@
                 "open_issues": 175,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
-                "stars": 3513,
+                "stars": 3512,
                 "topics": [
                   "gateway",
                   "graphql",
@@ -837,7 +837,7 @@
                 "open_issues": 21,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10543,
+                "stars": 10544,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:06:25.393Z",
+    "last_updated": "2026-09-02T22:00:45.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
