@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-01T00:14:45Z",
-            "open_issues": 100,
+            "open_issues": 99,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3554,
+            "stars": 3555,
             "topics": [
               "buildpacks",
               "cli",
@@ -433,7 +433,7 @@
                 "open_issues": 386,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32068,
+                "stars": 32084,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 381,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19061,
+                "stars": 19069,
                 "topics": [
                   "bun",
                   "framework",
@@ -695,7 +695,7 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-24T17:29:24Z",
+                "last_commit": "2026-09-03T11:23:47Z",
                 "open_issues": 175,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
@@ -837,7 +837,7 @@
                 "open_issues": 21,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10544,
+                "stars": 10543,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1300,7 +1300,7 @@
             "open_issues": 3,
             "owner": "cometkim",
             "repo": "asdf-bun",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "asdf",
               "asdf-plugin",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T22:00:45.301Z",
+    "last_updated": "2026-09-03T21:55:16.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 90,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3650,
+      "stars": 3652,
       "topics": [
         "awesome",
         "awesome-bun",
