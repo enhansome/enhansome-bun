@@ -19,7 +19,7 @@
             "open_issues": 99,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3555,
+            "stars": 3554,
             "topics": [
               "buildpacks",
               "cli",
@@ -47,7 +47,7 @@
             "open_issues": 0,
             "owner": "turbostarter",
             "repo": "extro",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "ai",
               "boilerplate",
@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-28T06:38:15Z",
-                "open_issues": 386,
+                "last_commit": "2026-09-04T19:15:30Z",
+                "open_issues": 383,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32084,
+                "stars": 32091,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -460,11 +460,11 @@
                 "id": 574104779,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-30T16:01:27Z",
-                "open_issues": 381,
+                "last_commit": "2026-09-04T10:55:00Z",
+                "open_issues": 383,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19069,
+                "stars": 19077,
                 "topics": [
                   "bun",
                   "framework",
@@ -695,7 +695,7 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T11:23:47Z",
+                "last_commit": "2026-09-04T12:51:45Z",
                 "open_issues": 175,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
@@ -837,7 +837,7 @@
                 "open_issues": 21,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10543,
+                "stars": 10546,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:55:16.096Z",
+    "last_updated": "2026-09-04T21:51:31.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 90,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3652,
+      "stars": 3654,
       "topics": [
         "awesome",
         "awesome-bun",
