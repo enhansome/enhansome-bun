@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,959 | 🐛 8,663 | 🌐 Rust | 📅 2026-09-14
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,971 | 🐛 8,667 | 🌐 Rust | 📅 2026-09-15
 
 ## Articles
 
@@ -75,9 +75,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,187 | 🐛 401 | 🌐 TypeScript | 📅 2026-09-14 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,145 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-07 - Fast, and friendly Bun web framework.
-* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,530 | 🐛 153 | 🌐 TypeScript | 📅 2026-09-11 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,199 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-15 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,146 | 🐛 394 | 🌐 TypeScript | 📅 2026-09-07 - Fast, and friendly Bun web framework.
+* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,530 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-11 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 785 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 340 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
 * [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
@@ -99,7 +99,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Utilities
 
-* [Orama](https://github.com/oramasearch/orama) ⭐ 10,550 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+* [Orama](https://github.com/oramasearch/orama) ⭐ 10,553 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 * [blipgloss](https://github.com/wobsoriano/blipgloss) ⭐ 212 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-05 - Style definitions for nice terminal layouts 👄.
 * [bun-promptx](https://github.com/wobsoriano/bun-promptx) ⭐ 149 | 🐛 5 | 🌐 Go | 📅 2023-09-19 - Terminal prompt library based on bubbles via bun:ffi.
 * [bnx](https://github.com/wobsoriano/bnx) ⚠️ Archived - zx inspired shell for Bun/Node.
@@ -155,7 +155,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Community
 
-* [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) ⭐ 563 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12 - Compare throughput benchmark from various Bun HTTP frameworks.
+* [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) ⭐ 564 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-12 - Compare throughput benchmark from various Bun HTTP frameworks.
 * [Framework benchmarks](https://github.com/bunsvr/benchmark) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-16 - Comparing Bun HTTP frameworks.
 * [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-07
 * [Benchmarks](https://github.com/xHyroM/benchmarks) ⚠️ Archived
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
