@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,971 | 🐛 8,768 | 🌐 Rust | 📅 2026-09-16
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 95,977 | 🐛 8,859 | 🌐 Rust | 📅 2026-09-17
 
 ## Articles
 
@@ -75,11 +75,11 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,235 | 🐛 403 | 🌐 TypeScript | 📅 2026-09-15 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,154 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-07 - Fast, and friendly Bun web framework.
-* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,529 | 🐛 152 | 🌐 TypeScript | 📅 2026-09-16 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,257 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-15 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,155 | 🐛 393 | 🌐 TypeScript | 📅 2026-09-17 - Fast, and friendly Bun web framework.
+* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,530 | 🐛 145 | 🌐 TypeScript | 📅 2026-09-17 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 785 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
-* [Blade](https://github.com/ronin-co/blade) ⭐ 340 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
+* [Blade](https://github.com/ronin-co/blade) ⭐ 341 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
 * [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
 * [NBit](https://github.com/sstur/nbit) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2024-01-26 - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
 * [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) ⭐ 55 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-01 A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. *No scripting required.*
@@ -91,7 +91,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 ### Libraries
 
 * [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,511 | 🐛 177 | 🌐 TypeScript | 📅 2026-09-16 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
-* [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,379 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Set of JavaScript packages for building HTTP server applications, with Bun support.
+* [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,378 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Set of JavaScript packages for building HTTP server applications, with Bun support.
 * [Siopao](https://github.com/wobsoriano/siopao) ⚠️ Archived - Minimal routing library. Based on Radix Tree.
 * [Fluxify](https://github.com/simylein/fluxify) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - A neat little library powered by Bun for building apis.
 * [@stricjs/utils](https://github.com/bunsvr/utils) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-19 - A set of blazingly fast, general-purpose web utilities.
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
