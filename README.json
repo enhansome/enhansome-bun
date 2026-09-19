@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:14:59Z",
-                "open_issues": 412,
+                "open_issues": 410,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32269,
+                "stars": 32279,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 393,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19160,
+                "stars": 19162,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,11 +488,11 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T15:16:00Z",
+                "last_commit": "2026-09-19T20:39:56Z",
                 "open_issues": 146,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8531,
+                "stars": 8530,
                 "topics": [
                   "bun",
                   "deno",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:55:46.208Z",
+    "last_updated": "2026-09-19T21:47:54.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
