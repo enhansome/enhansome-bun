@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T13:14:59Z",
-                "open_issues": 410,
+                "last_commit": "2026-09-20T09:25:49Z",
+                "open_issues": 394,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32279,
+                "stars": 32287,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 393,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19162,
+                "stars": 19165,
                 "topics": [
                   "bun",
                   "framework",
@@ -489,10 +489,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-19T20:39:56Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8530,
+                "stars": 8529,
                 "topics": [
                   "bun",
                   "deno",
@@ -1237,7 +1237,7 @@
             "open_issues": 19,
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 723,
+            "stars": 725,
             "topics": [
               "actions",
               "bun",
@@ -1536,7 +1536,7 @@
             "open_issues": 30,
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 564,
+            "stars": 565,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:47:54.393Z",
+    "last_updated": "2026-09-20T21:54:57.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 93,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3665,
+      "stars": 3664,
       "topics": [
         "awesome",
         "awesome-bun",
