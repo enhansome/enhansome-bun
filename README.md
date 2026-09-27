@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,042 | 🐛 9,369 | 🌐 Rust | 📅 2026-09-26
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,064 | 🐛 9,427 | 🌐 Rust | 📅 2026-09-27
 
 ## Articles
 
@@ -75,10 +75,10 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,352 | 🐛 406 | 🌐 TypeScript | 📅 2026-09-26 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,195 | 🐛 388 | 🌐 TypeScript | 📅 2026-09-24 - Fast, and friendly Bun web framework.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,363 | 🐛 407 | 🌐 TypeScript | 📅 2026-09-27 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,196 | 🐛 388 | 🌐 TypeScript | 📅 2026-09-24 - Fast, and friendly Bun web framework.
 * [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,529 | 🐛 146 | 🌐 TypeScript | 📅 2026-09-25 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
-* [Brisa](https://github.com/brisa-build/brisa) ⭐ 785 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
+* [Brisa](https://github.com/brisa-build/brisa) ⭐ 784 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 341 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
 * [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
 * [NBit](https://github.com/sstur/nbit) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2024-01-26 - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
@@ -99,8 +99,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Utilities
 
-* [Orama](https://github.com/oramasearch/orama) ⭐ 10,563 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
-* [blipgloss](https://github.com/wobsoriano/blipgloss) ⭐ 213 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-05 - Style definitions for nice terminal layouts 👄.
+* [Orama](https://github.com/oramasearch/orama) ⭐ 10,564 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-11 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+* [blipgloss](https://github.com/wobsoriano/blipgloss) ⭐ 212 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-05 - Style definitions for nice terminal layouts 👄.
 * [bun-promptx](https://github.com/wobsoriano/bun-promptx) ⭐ 149 | 🐛 5 | 🌐 Go | 📅 2023-09-19 - Terminal prompt library based on bubbles via bun:ffi.
 * [bnx](https://github.com/wobsoriano/bnx) ⚠️ Archived - zx inspired shell for Bun/Node.
 * [prerender-macro](https://github.com/aralroca/prerender-macro) ⭐ 97 | 🐛 3 | 🌐 TypeScript | 📅 2024-03-27 - Bun plugin to prerender JSX components using a kind of macro
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
