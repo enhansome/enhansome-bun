@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3553,
+            "stars": 3554,
             "topics": [
               "buildpacks",
               "cli",
@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T08:48:13Z",
-                "open_issues": 416,
+                "last_commit": "2026-09-29T06:12:56Z",
+                "open_issues": 417,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32375,
+                "stars": 32386,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -461,10 +461,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-24T17:13:53Z",
-                "open_issues": 388,
+                "open_issues": 389,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19200,
+                "stars": 19207,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,11 +488,11 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-28T19:47:07Z",
-                "open_issues": 145,
+                "last_commit": "2026-09-29T21:51:34Z",
+                "open_issues": 146,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8528,
+                "stars": 8529,
                 "topics": [
                   "bun",
                   "deno",
@@ -695,7 +695,7 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T13:34:05Z",
+                "last_commit": "2026-09-29T16:44:14Z",
                 "open_issues": 177,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
@@ -1536,7 +1536,7 @@
             "open_issues": 30,
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 565,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T23:58:35.385Z",
+    "last_updated": "2026-09-29T23:14:06.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
