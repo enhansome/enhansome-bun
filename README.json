@@ -19,7 +19,7 @@
             "open_issues": 96,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3554,
+            "stars": 3555,
             "topics": [
               "buildpacks",
               "cli",
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:04:38Z",
-                "open_issues": 413,
+                "open_issues": 414,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32401,
+                "stars": 32407,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 388,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19214,
+                "stars": 19216,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,8 +488,8 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:49:23Z",
-                "open_issues": 148,
+                "last_commit": "2026-10-03T13:49:27Z",
+                "open_issues": 147,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
                 "stars": 8527,
@@ -695,8 +695,8 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-29T16:44:14Z",
-                "open_issues": 177,
+                "last_commit": "2026-10-03T22:26:53Z",
+                "open_issues": 179,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3511,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:38:34.689Z",
+    "last_updated": "2026-10-03T22:27:23.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
