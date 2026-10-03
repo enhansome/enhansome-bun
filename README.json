@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Nixpacks Bun web server",
-          "description": null,
+          "description": "railwayapp/nixpacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "Extro - open source browser extension starter kit",
-          "description": null,
+          "description": "turbostarter/extro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
         {
           "node_type": "item",
           "title": "Bun OpenAI Whisper Microservice with Docker",
-          "description": null,
+          "description": "Illyism/openai-whisper-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "Bun Lib Starter",
-          "description": null,
+          "description": "wobsoriano/bun-lib-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -120,7 +120,7 @@
         {
           "node_type": "item",
           "title": "remix-bun",
-          "description": null,
+          "description": "jacob-ebey/remix-bun-testing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "DBest Stack",
-          "description": null,
+          "description": "itsyoboieltr/dbest-stack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
         {
           "node_type": "item",
           "title": "tRPC + Bun",
-          "description": null,
+          "description": "sachinraja/trpc-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "sveltekit-bun-template",
-          "description": null,
+          "description": "theotterlord/sveltekit-bun-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -208,7 +208,7 @@
         {
           "node_type": "item",
           "title": "Bun on Dev Containers & GitHub Codespaces",
-          "description": null,
+          "description": "alertbox/try-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -238,7 +238,7 @@
         {
           "node_type": "item",
           "title": "🐵 Xmonkey Userscript: Bun + TypeScript Boilerplate",
-          "description": null,
+          "description": "genzj/bun-ts-userscript-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -259,7 +259,7 @@
         {
           "node_type": "item",
           "title": "Create Bun Boilerplates",
-          "description": null,
+          "description": "guocaoyi/netron",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -285,7 +285,7 @@
         {
           "node_type": "item",
           "title": "Bun Template for Gitpod",
-          "description": null,
+          "description": "gitpod-samples/template-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "React-Typescript template",
-          "description": null,
+          "description": "itsanji/react-ts-template-for-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "Bun on Railway - Starter",
-          "description": null,
+          "description": "FarazPatankar/bun-on-railway",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "react-nostalgia-boilerplate",
-          "description": null,
+          "description": "boilertown/react-nostalgia-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "React Bun Template for Gitpod",
-          "description": null,
+          "description": "Joshuafrankle/bun-react",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:04:38Z",
-                "open_issues": 412,
+                "open_issues": 413,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32400,
+                "stars": 32401,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -833,8 +833,8 @@
                 "id": 490677825,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T21:13:45Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-03T03:35:21Z",
+                "open_issues": 26,
                 "owner": "oramasearch",
                 "repo": "orama",
                 "stars": 10569,
@@ -1565,7 +1565,7 @@
         {
           "node_type": "item",
           "title": "sveltekit-adapter-bun",
-          "description": null,
+          "description": "bun-community/sveltekit-adapter-bun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1586,7 +1586,7 @@
         {
           "node_type": "item",
           "title": "Benchmarks",
-          "description": null,
+          "description": "xhyrom-archive/benchmarks",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:18:09.007Z",
+    "last_updated": "2026-10-03T04:38:34.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 93,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3657,
+      "stars": 3658,
       "topics": [
         "awesome",
         "awesome-bun",
