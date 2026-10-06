@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,127 | 🐛 9,712 | 🌐 Rust | 📅 2026-10-06
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,137 | 🐛 9,599 | 🌐 Rust | 📅 2026-10-06
 
 ## Articles
 
@@ -75,8 +75,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,416 | 🐛 414 | 🌐 TypeScript | 📅 2026-10-05 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,217 | 🐛 389 | 🌐 TypeScript | 📅 2026-10-05 - Fast, and friendly Bun web framework.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,424 | 🐛 416 | 🌐 TypeScript | 📅 2026-10-05 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,217 | 🐛 390 | 🌐 TypeScript | 📅 2026-10-05 - Fast, and friendly Bun web framework.
 * [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,526 | 🐛 146 | 🌐 TypeScript | 📅 2026-10-05 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 784 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 341 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
@@ -90,8 +90,8 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Libraries
 
-* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,510 | 🐛 178 | 🌐 TypeScript | 📅 2026-10-03 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
-* [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,382 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-05 - Set of JavaScript packages for building HTTP server applications, with Bun support.
+* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,511 | 🐛 178 | 🌐 TypeScript | 📅 2026-10-03 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
+* [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,382 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-06 - Set of JavaScript packages for building HTTP server applications, with Bun support.
 * [Siopao](https://github.com/wobsoriano/siopao) ⚠️ Archived - Minimal routing library. Based on Radix Tree.
 * [Fluxify](https://github.com/simylein/fluxify) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - A neat little library powered by Bun for building apis.
 * [@stricjs/utils](https://github.com/bunsvr/utils) ⭐ 20 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-19 - A set of blazingly fast, general-purpose web utilities.
