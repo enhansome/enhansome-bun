@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T07:19:45Z",
-                "open_issues": 413,
+                "last_commit": "2026-10-10T21:56:07Z",
+                "open_issues": 410,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32462,
+                "stars": 32474,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 394,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19227,
+                "stars": 19237,
                 "topics": [
                   "bun",
                   "framework",
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T15:29:35Z",
+                "last_commit": "2026-10-10T10:04:40Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -1532,11 +1532,11 @@
             "id": 524697082,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-09T22:06:12Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-10T19:08:33Z",
+            "open_issues": 33,
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 570,
+            "stars": 573,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:35:24.349Z",
+    "last_updated": "2026-10-10T22:58:30.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 96,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3664,
+      "stars": 3667,
       "topics": [
         "awesome",
         "awesome-bun",
