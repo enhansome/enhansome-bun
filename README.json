@@ -433,7 +433,7 @@
                 "open_issues": 409,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32521,
+                "stars": 32538,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -461,10 +461,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-11T12:30:26Z",
-                "open_issues": 396,
+                "open_issues": 398,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19243,
+                "stars": 19248,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,11 +488,11 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T18:34:01Z",
-                "open_issues": 147,
+                "last_commit": "2026-10-14T20:03:22Z",
+                "open_issues": 146,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8528,
+                "stars": 8529,
                 "topics": [
                   "bun",
                   "deno",
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T22:36:31Z",
+                "last_commit": "2026-10-14T22:06:46Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -837,7 +837,7 @@
                 "open_issues": 34,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10574,
+                "stars": 10577,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:27:00.807Z",
+    "last_updated": "2026-10-14T22:42:22.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
