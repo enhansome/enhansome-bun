@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3555,
+            "stars": 3556,
             "topics": [
               "buildpacks",
               "cli",
@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T12:26:44Z",
-                "open_issues": 411,
+                "last_commit": "2026-10-16T10:17:36Z",
+                "open_issues": 408,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32548,
+                "stars": 32561,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -461,10 +461,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-11T12:30:26Z",
-                "open_issues": 399,
+                "open_issues": 400,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19252,
+                "stars": 19254,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,11 +488,11 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:20:25Z",
+                "last_commit": "2026-10-16T16:17:11Z",
                 "open_issues": 143,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8529,
+                "stars": 8531,
                 "topics": [
                   "bun",
                   "deno",
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T17:27:11Z",
+                "last_commit": "2026-10-16T11:38:14Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -837,7 +837,7 @@
                 "open_issues": 34,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10577,
+                "stars": 10576,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T22:41:36.494Z",
+    "last_updated": "2026-10-16T22:13:38.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1621,7 +1621,7 @@
       "open_issues": 95,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3669,
+      "stars": 3668,
       "topics": [
         "awesome",
         "awesome-bun",
