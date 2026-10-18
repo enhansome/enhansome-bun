@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,277 | 🐛 9,106 | 🌐 Rust | 📅 2026-10-17
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,285 | 🐛 9,216 | 🌐 Rust | 📅 2026-10-18
 
 ## Articles
 
@@ -75,12 +75,12 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,575 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-17 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,256 | 🐛 400 | 🌐 TypeScript | 📅 2026-10-11 - Fast, and friendly Bun web framework.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,583 | 🐛 406 | 🌐 TypeScript | 📅 2026-10-17 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,259 | 🐛 400 | 🌐 TypeScript | 📅 2026-10-18 - Fast, and friendly Bun web framework.
 * [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,531 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-16 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 783 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 341 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
-* [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
+* [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 171 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
 * [NBit](https://github.com/sstur/nbit) ⭐ 77 | 🐛 5 | 🌐 TypeScript | 📅 2024-01-26 - A zero-dependency, strongly-typed web framework for Bun, Node and Cloudflare workers.
 * [Gamepadzilla](https://github.com/RodrigoDornelles/npm-gamepadzilla/) ⭐ 55 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-01 A plug-and-play gamepad frontend framework for HTML5 mobile games, supporting both virtual and physical joysticks. *No scripting required.*
 * [BunWork](https://github.com/happer64bit/bunwork) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-11 - Simple, Fast and Minimalist Backend Framework with No Pain
@@ -99,7 +99,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Utilities
 
-* [Orama](https://github.com/oramasearch/orama) ⭐ 10,578 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-08 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+* [Orama](https://github.com/oramasearch/orama) ⭐ 10,578 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-18 - 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 * [blipgloss](https://github.com/wobsoriano/blipgloss) ⭐ 212 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-05 - Style definitions for nice terminal layouts 👄.
 * [bun-promptx](https://github.com/wobsoriano/bun-promptx) ⭐ 149 | 🐛 5 | 🌐 Go | 📅 2023-09-19 - Terminal prompt library based on bubbles via bun:ffi.
 * [bnx](https://github.com/wobsoriano/bnx) ⚠️ Archived - zx inspired shell for Bun/Node.
@@ -139,12 +139,12 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Tools
 
-* [setup-bun](https://github.com/oven-sh/setup-bun) ⭐ 728 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-14 - Set up your GitHub Actions workflow with a specific version of Bun.
+* [setup-bun](https://github.com/oven-sh/setup-bun) ⭐ 728 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-14 - Set up your GitHub Actions workflow with a specific version of Bun.
 * [Bum](https://github.com/owenizedd/bum) ⭐ 267 | 🐛 16 | 🌐 Rust | 📅 2026-06-27 - A fast Bun version manager written in Rust.
 * [asdf-bun](https://github.com/cometkim/asdf-bun) ⭐ 151 | 🐛 3 | 🌐 Shell | 📅 2025-06-17 - asdf version manager plugin for installing Bun.
 * [bunbot](https://github.com/wobsoriano/bunbot) ⭐ 82 | 🐛 1 | 🌐 Go | 📅 2023-09-23 - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
 * [action-setup-bun](https://github.com/antongolub/action-setup-bun) ⭐ 50 | 🐛 5 | 🌐 TypeScript | 📅 2026-05-11 - Setup GitHub Actions workflow with a specific version of Bun.
-* [bun-discord-bot(serverless)](https://github.com/xHyroM/bun-discord-bot) ⭐ 40 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-09 - Official serverless discord bot for bun discord server.
+* [bun-discord-bot(serverless)](https://github.com/xHyroM/bun-discord-bot) ⭐ 39 | 🐛 1 | 🌐 TypeScript | 📅 2025-11-09 - Official serverless discord bot for bun discord server.
 * [Shumai](https://github.com/AltriusRS/Shumai) ⭐ 29 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-12 - A delicious new outlook on command line argument handling with Bun.
 * [Discall](https://github.com/Discall-Development/Discall) ⚠️ Archived - A async functional discord API wrapper written in bun.
 * [bun-discord-bot](https://github.com/MiraBellierr/bun-discord-bot) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-25 - Interaction Discord bot written in JS and TS using Bun runtime environment.
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

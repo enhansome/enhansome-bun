@@ -433,7 +433,7 @@
                 "open_issues": 406,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32575,
+                "stars": 32583,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -460,11 +460,11 @@
                 "id": 574104779,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-11T12:30:26Z",
+                "last_commit": "2026-10-18T14:25:42Z",
                 "open_issues": 400,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19256,
+                "stars": 19259,
                 "topics": [
                   "bun",
                   "framework",
@@ -584,7 +584,7 @@
                 "open_issues": 4,
                 "owner": "mimiMonads",
                 "repo": "vixeny",
-                "stars": 172,
+                "stars": 171,
                 "topics": [
                   "bun",
                   "deno",
@@ -833,8 +833,8 @@
                 "id": 490677825,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T10:18:52Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-18T16:53:33Z",
+                "open_issues": 35,
                 "owner": "oramasearch",
                 "repo": "orama",
                 "stars": 10578,
@@ -1234,7 +1234,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-14T09:38:41Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "oven-sh",
             "repo": "setup-bun",
             "stars": 728,
@@ -1383,7 +1383,7 @@
             "open_issues": 1,
             "owner": "xhyrom",
             "repo": "bun-discord-bot",
-            "stars": 40,
+            "stars": 39,
             "topics": [
               "bot",
               "bun",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:46:30.756Z",
+    "last_updated": "2026-10-18T21:56:00.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1618,7 +1618,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-07-20T10:01:29Z",
-      "open_issues": 95,
+      "open_issues": 96,
       "owner": "oven-sh",
       "repo": "awesome-bun",
       "stars": 3668,
