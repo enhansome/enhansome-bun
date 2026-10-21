@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T13:08:26Z",
-                "open_issues": 411,
+                "open_issues": 413,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32609,
+                "stars": 32621,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 401,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19269,
+                "stars": 19271,
                 "topics": [
                   "bun",
                   "framework",
@@ -695,8 +695,8 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T21:30:25Z",
-                "open_issues": 180,
+                "last_commit": "2026-10-21T00:25:12Z",
+                "open_issues": 177,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3511,
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T22:42:00Z",
+                "last_commit": "2026-10-21T20:23:03Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:43:40.943Z",
+    "last_updated": "2026-10-21T22:48:35.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1618,10 +1618,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-07-20T10:01:29Z",
-      "open_issues": 95,
+      "open_issues": 96,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3670,
+      "stars": 3673,
       "topics": [
         "awesome",
         "awesome-bun",
