@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3555,
+            "stars": 3554,
             "topics": [
               "buildpacks",
               "cli",
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-22T15:50:19Z",
-                "open_issues": 405,
+                "open_issues": 407,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32646,
+                "stars": 32665,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 406,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19285,
+                "stars": 19290,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,8 +488,8 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T18:27:58Z",
-                "open_issues": 140,
+                "last_commit": "2026-10-24T11:42:02Z",
+                "open_issues": 141,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
                 "stars": 8532,
@@ -525,7 +525,7 @@
                 "open_issues": 55,
                 "owner": "brisa-build",
                 "repo": "brisa",
-                "stars": 782,
+                "stars": 781,
                 "topics": [
                   "hacktoberfest",
                   "javascript",
@@ -1234,10 +1234,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-14T09:38:41Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "actions",
               "bun",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T22:40:01.968Z",
+    "last_updated": "2026-10-24T21:58:37.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
