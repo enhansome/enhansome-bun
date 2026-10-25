@@ -429,11 +429,11 @@
                 "id": 438384984,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T15:50:19Z",
-                "open_issues": 407,
+                "last_commit": "2026-10-25T07:17:42Z",
+                "open_issues": 402,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32665,
+                "stars": 32681,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 406,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19290,
+                "stars": 19299,
                 "topics": [
                   "bun",
                   "framework",
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T17:12:13Z",
+                "last_commit": "2026-10-25T09:50:51Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -837,7 +837,7 @@
                 "open_issues": 35,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10584,
+                "stars": 10585,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1237,7 +1237,7 @@
             "open_issues": 23,
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 729,
+            "stars": 730,
             "topics": [
               "actions",
               "bun",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:58:37.813Z",
+    "last_updated": "2026-10-25T22:05:49.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
