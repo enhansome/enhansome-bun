@@ -154,7 +154,7 @@
             "open_issues": 0,
             "owner": "itsyoboieltr",
             "repo": "dbest-stack",
-            "stars": 100,
+            "stars": 99,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-26T06:05:22Z",
-                "open_issues": 402,
+                "open_issues": 403,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32706,
+                "stars": 32722,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -461,10 +461,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-19T17:23:26Z",
-                "open_issues": 406,
+                "open_issues": 409,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19303,
+                "stars": 19306,
                 "topics": [
                   "bun",
                   "framework",
@@ -492,7 +492,7 @@
                 "open_issues": 140,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8532,
+                "stars": 8533,
                 "topics": [
                   "bun",
                   "deno",
@@ -727,8 +727,8 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T18:37:14Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-27T19:52:02Z",
+                "open_issues": 21,
                 "owner": "hattipjs",
                 "repo": "hattip",
                 "stars": 1381,
@@ -837,7 +837,7 @@
                 "open_issues": 35,
                 "owner": "oramasearch",
                 "repo": "orama",
-                "stars": 10587,
+                "stars": 10586,
                 "topics": [
                   "algiorithm",
                   "data-structures",
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:23:26.140Z",
+    "last_updated": "2026-10-27T23:15:04.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1618,7 +1618,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-07-20T10:01:29Z",
-      "open_issues": 97,
+      "open_issues": 99,
       "owner": "oven-sh",
       "repo": "awesome-bun",
       "stars": 3676,
