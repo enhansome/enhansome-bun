@@ -36,7 +36,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 * [Website](https://bun.com/)
 * [Docs](https://bun.com/docs)
-* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,472 | 🐛 9,584 | 🌐 Rust | 📅 2026-10-30
+* [Examples](https://github.com/oven-sh/bun/tree/main/examples) ⭐ 96,487 | 🐛 9,587 | 🌐 Rust | 📅 2026-10-31
 
 ## Articles
 
@@ -75,9 +75,9 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Frameworks
 
-* [Hono](https://github.com/honojs/hono) ⭐ 32,754 | 🐛 407 | 🌐 TypeScript | 📅 2026-10-30 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
-* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,318 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-28 - Fast, and friendly Bun web framework.
-* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,536 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-30 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
+* [Hono](https://github.com/honojs/hono) ⭐ 32,762 | 🐛 407 | 🌐 TypeScript | 📅 2026-10-30 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
+* [Elysia](https://github.com/elysiajs/elysia) ⭐ 19,318 | 🐛 412 | 🌐 TypeScript | 📅 2026-10-28 - Fast, and friendly Bun web framework.
+* [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) ⭐ 8,536 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-31 - A fast, fully featured GraphQL Framework that [runs on Bun](https://the-guild.dev/graphql/yoga-server/v3/integrations/integration-with-bun), Cloudflare Workers, Deno, and any JS environment.
 * [Brisa](https://github.com/brisa-build/brisa) ⭐ 781 | 🐛 55 | 🌐 TypeScript | 📅 2026-05-01 A full-stack web framework with Server Actions and Web Components with JSX + signals
 * [Blade](https://github.com/ronin-co/blade) ⭐ 341 | 🐛 19 | 🌐 TypeScript | 📅 2025-12-08 — Build instant web apps with React.
 * [Vixeny](https://github.com/mimiMonads/vixeny) ⭐ 171 | 🐛 4 | 🌐 TypeScript | 📅 2025-02-05 - A fast, pure functional web framework for Bun and Deno.
@@ -90,7 +90,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ### Libraries
 
-* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,513 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-30 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
+* [GraphQL Mesh](https://github.com/urigo/graphql-mesh) ⭐ 3,514 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-30 - Gateway that takes any source API and exposes GraphQL. Runs on Bun, Cloudflare Workers, Deno, and any JS environment.
 * [Hattip](https://github.com/hattipjs/hattip) ⭐ 1,383 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-30 - Set of JavaScript packages for building HTTP server applications, with Bun support.
 * [Siopao](https://github.com/wobsoriano/siopao) ⚠️ Archived - Minimal routing library. Based on Radix Tree.
 * [Fluxify](https://github.com/simylein/fluxify) ⭐ 45 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19 - A neat little library powered by Bun for building apis.
@@ -139,7 +139,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Tools
 
-* [setup-bun](https://github.com/oven-sh/setup-bun) ⭐ 730 | 🐛 23 | 🌐 TypeScript | 📅 2026-03-14 - Set up your GitHub Actions workflow with a specific version of Bun.
+* [setup-bun](https://github.com/oven-sh/setup-bun) ⭐ 729 | 🐛 23 | 🌐 TypeScript | 📅 2026-03-14 - Set up your GitHub Actions workflow with a specific version of Bun.
 * [Bum](https://github.com/owenizedd/bum) ⭐ 267 | 🐛 16 | 🌐 Rust | 📅 2026-06-27 - A fast Bun version manager written in Rust.
 * [asdf-bun](https://github.com/cometkim/asdf-bun) ⭐ 151 | 🐛 3 | 🌐 Shell | 📅 2025-06-17 - asdf version manager plugin for installing Bun.
 * [bunbot](https://github.com/wobsoriano/bunbot) ⭐ 82 | 🐛 1 | 🌐 Go | 📅 2023-09-23 - Native cross-platform GUI automation for the Bun runtime. Supports Mac and Windows for now.
@@ -155,7 +155,7 @@ Bun is an incredibly fast JavaScript runtime, bundler, transpiler and package ma
 
 ## Community
 
-* [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) ⭐ 575 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-10 - Compare throughput benchmark from various Bun HTTP frameworks.
+* [Bun HTTP Framework Benchmark](https://github.com/SaltyAom/bun-http-framework-benchmark) ⭐ 576 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-10 - Compare throughput benchmark from various Bun HTTP frameworks.
 * [Framework benchmarks](https://github.com/bunsvr/benchmark) ⭐ 28 | 🐛 0 | 🌐 TypeScript | 📅 2024-01-16 - Comparing Bun HTTP frameworks.
 * [sveltekit-adapter-bun](https://github.com/bun-community/sveltekit-adapter-bun) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-07
 * [Benchmarks](https://github.com/xHyroM/benchmarks) ⚠️ Archived
@@ -172,4 +172,4 @@ This repository is built for the community. Submit packages, articles, blogs, vi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
