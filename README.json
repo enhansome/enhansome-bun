@@ -430,10 +430,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-05T14:21:09Z",
-                "open_issues": 396,
+                "open_issues": 397,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32833,
+                "stars": 32845,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -460,11 +460,11 @@
                 "id": 574104779,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T04:46:22Z",
+                "last_commit": "2026-11-06T14:14:03Z",
                 "open_issues": 419,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19333,
+                "stars": 19331,
                 "topics": [
                   "bun",
                   "framework",
@@ -488,11 +488,11 @@
                 "id": 110819939,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:03:51Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-06T13:50:13Z",
+                "open_issues": 141,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
-                "stars": 8536,
+                "stars": 8539,
                 "topics": [
                   "bun",
                   "deno",
@@ -695,8 +695,8 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T21:48:26Z",
-                "open_issues": 180,
+                "last_commit": "2026-11-06T20:18:42Z",
+                "open_issues": 186,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3515,
@@ -727,7 +727,7 @@
                 "id": 462422707,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T23:11:40Z",
+                "last_commit": "2026-11-06T23:09:20Z",
                 "open_issues": 22,
                 "owner": "hattipjs",
                 "repo": "hattip",
@@ -1237,7 +1237,7 @@
             "open_issues": 23,
             "owner": "oven-sh",
             "repo": "setup-bun",
-            "stars": 730,
+            "stars": 729,
             "topics": [
               "actions",
               "bun",
@@ -1536,7 +1536,7 @@
             "open_issues": 34,
             "owner": "SaltyAom",
             "repo": "bun-http-framework-benchmark",
-            "stars": 576,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-29T02:28:10.972Z"
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:34:24.694Z",
+    "last_updated": "2026-11-06T23:50:19.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
