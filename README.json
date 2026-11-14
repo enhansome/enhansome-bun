@@ -19,7 +19,7 @@
             "open_issues": 97,
             "owner": "railwayapp",
             "repo": "nixpacks",
-            "stars": 3557,
+            "stars": 3558,
             "topics": [
               "buildpacks",
               "cli",
@@ -433,7 +433,7 @@
                 "open_issues": 400,
                 "owner": "honojs",
                 "repo": "hono",
-                "stars": 32944,
+                "stars": 32950,
                 "topics": [
                   "aws-lambda",
                   "bun",
@@ -464,7 +464,7 @@
                 "open_issues": 417,
                 "owner": "elysiajs",
                 "repo": "elysia",
-                "stars": 19353,
+                "stars": 19357,
                 "topics": [
                   "bun",
                   "framework",
@@ -489,7 +489,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-11-12T16:41:22Z",
-                "open_issues": 138,
+                "open_issues": 139,
                 "owner": "graphql-hive",
                 "repo": "graphql-yoga",
                 "stars": 8541,
@@ -695,8 +695,8 @@
                 "id": 233597517,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T21:24:25Z",
-                "open_issues": 189,
+                "last_commit": "2026-11-14T22:22:07Z",
+                "open_issues": 188,
                 "owner": "ardatan",
                 "repo": "graphql-mesh",
                 "stars": 3515,
@@ -1234,7 +1234,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-14T09:38:41Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "oven-sh",
             "repo": "setup-bun",
             "stars": 732,
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:29:40.949Z",
+    "last_updated": "2026-11-14T23:25:35.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "⚡️ A curated list of awesome things related to Bun",
@@ -1618,10 +1618,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-07-20T10:01:29Z",
-      "open_issues": 103,
+      "open_issues": 104,
       "owner": "oven-sh",
       "repo": "awesome-bun",
-      "stars": 3681,
+      "stars": 3680,
       "topics": [
         "awesome",
         "awesome-bun",
